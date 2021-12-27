@@ -1,6 +1,4 @@
-name,age
-Tom,20
-Mary,20
-Alex,20
-Max,21
-Lorry,21
+id_job,name_job
+11,тимлид
+12,менеджер проектов
+13,разработчик
