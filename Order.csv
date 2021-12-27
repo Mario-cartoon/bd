@@ -1,30 +1,16 @@
-OrderID,CustomerID,EmployeeID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,ShipPostalCode,ShipCountry,OrderID,ProductID,UnitPrice,Quantity,Discount
-10248,VINET,5,1996-07-04,1996-08-01,1996-07-16,3,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,10248,11,14,12,0
-10248,VINET,5,1996-07-04,1996-08-01,1996-07-16,3,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,10248,42,9.8,10,0
-10248,VINET,5,1996-07-04,1996-08-01,1996-07-16,3,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,10248,72,34.8,5,0
-10249,TOMSP,6,1996-07-05,1996-08-16,1996-07-10,1,11.61,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,10249,14,18.6,9,0
-10249,TOMSP,6,1996-07-05,1996-08-16,1996-07-10,1,11.61,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,10249,51,42.4,40,0
-10250,HANAR,4,1996-07-08,1996-08-05,1996-07-12,2,65.83,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil,10250,41,7.7,10,0
-10250,HANAR,4,1996-07-08,1996-08-05,1996-07-12,2,65.83,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil,10250,51,42.4,35,0.15
-10250,HANAR,4,1996-07-08,1996-08-05,1996-07-12,2,65.83,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil,10250,65,16.8,15,0.15
-10251,VICTE,3,1996-07-08,1996-08-05,1996-07-15,1,41.34,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France,10251,22,16.8,6,0.05
-10251,VICTE,3,1996-07-08,1996-08-05,1996-07-15,1,41.34,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France,10251,57,15.6,15,0.05
-10251,VICTE,3,1996-07-08,1996-08-05,1996-07-15,1,41.34,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France,10251,65,16.8,20,0
-10252,SUPRD,4,1996-07-09,1996-08-06,1996-07-11,2,51.3,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,10252,20,64.8,40,0.05
-10252,SUPRD,4,1996-07-09,1996-08-06,1996-07-11,2,51.3,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,10252,33,2,25,0.05
-10252,SUPRD,4,1996-07-09,1996-08-06,1996-07-11,2,51.3,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,10252,60,27.2,40,0
-10253,HANAR,3,1996-07-10,1996-07-24,1996-07-16,2,58.17,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil,10253,31,10,20,0
-10253,HANAR,3,1996-07-10,1996-07-24,1996-07-16,2,58.17,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil,10253,39,14.4,42,0
-10253,HANAR,3,1996-07-10,1996-07-24,1996-07-16,2,58.17,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil,10253,49,16,40,0
-10254,CHOPS,5,1996-07-11,1996-08-08,1996-07-23,2,22.98,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland,10254,24,3.6,15,0.15
-10254,CHOPS,5,1996-07-11,1996-08-08,1996-07-23,2,22.98,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland,10254,55,19.2,21,0.15
-10254,CHOPS,5,1996-07-11,1996-08-08,1996-07-23,2,22.98,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland,10254,74,8,21,0
-10255,RICSU,9,1996-07-12,1996-08-09,1996-07-15,3,148.33,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland,10255,2,15.2,20,0
-10255,RICSU,9,1996-07-12,1996-08-09,1996-07-15,3,148.33,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland,10255,16,13.9,35,0
-10255,RICSU,9,1996-07-12,1996-08-09,1996-07-15,3,148.33,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland,10255,36,15.2,25,0
-10255,RICSU,9,1996-07-12,1996-08-09,1996-07-15,3,148.33,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland,10255,59,44,30,0
-10256,WELLI,3,1996-07-15,1996-08-12,1996-07-17,2,13.97,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil,10256,53,26.2,15,0
-10256,WELLI,3,1996-07-15,1996-08-12,1996-07-17,2,13.97,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil,10256,77,10.4,12,0
-10257,HILAA,4,1996-07-16,1996-08-13,1996-07-22,3,81.91,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,10257,27,35.1,25,0
-10257,HILAA,4,1996-07-16,1996-08-13,1996-07-22,3,81.91,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,10257,39,14.4,6,0
-10257,HILAA,4,1996-07-16,1996-08-13,1996-07-22,3,81.91,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,10257,77,10.4,15,0
+OrderID,CustomerID,EmployeeID,OrderDate,RequiredDate,ShippedDate,ShipCountry,OrderID,ProductID,UnitPrice,Quantity,Discount
+10248,VINET,5,1996-07-04,1996-08-01,1996-07-16,Russia,10248,11,14,12,0
+10248,VINET,5,1996-07-04,1996-08-01,1996-07-16,Russia,10248,42,9.8,10,0
+10248,VINET,5,1996-07-04,1996-08-01,1996-07-16,France,10248,72,34.8,5,0
+10249,TOMSP,6,1996-07-05,1996-08-16,1996-07-10,Germany,10249,14,18.6,9,0
+10249,TOMSP,6,1996-07-05,1996-08-16,1996-07-10,Russia,10249,51,42.4,40,0
+10250,HANAR,4,1996-07-08,1996-08-05,1996-07-12,Brazil,10250,41,7.7,10,0
+10250,HANAR,4,1996-07-08,1996-08-05,1996-07-12,Brazil,10250,51,42.4,35,0.15
+10250,HANAR,4,1996-07-08,1996-08-05,1996-07-12,Brazil,10250,65,16.8,15,0.15
+10251,VICTE,3,1996-07-08,1996-08-05,1996-07-15,France,10251,22,16.8,6,0.05
+10254,CHOPS,5,1996-07-11,1996-08-08,1996-07-23,Switzerland,10254,24,3.6,15,0.15
+10254,CHOPS,5,1996-07-11,1996-08-08,1996-07-23,Switzerland,10254,55,19.2,21,0.15
+10254,CHOPS,5,1996-07-11,1996-08-08,1996-07-23,Russia,10254,74,8,21,0
+10255,RICSU,9,1996-07-12,1996-08-09,1996-07-15,Switzerland,10255,2,15.2,20,0
+10255,RICSU,9,1996-07-12,1996-08-09,1996-07-15,Switzerland,10255,16,13.9,35,0
+10255,RICSU,9,1996-07-12,1996-08-09,1996-07-15,Russia,10255,36,15.2,25,0
