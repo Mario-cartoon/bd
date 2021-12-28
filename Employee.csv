@@ -1,4 +1,4 @@
-EmployeeID,LastName,FirstName,Title,ReportsTo
+EmployeeID,LastName,FirstName,Post,ReportsTo
 1,Novikova,Polina,Sales Representative,2
 2,Klyueva,Mia,"Vice President, Sales",
 5,Nekrasov,Igor,Sales Manager,2
