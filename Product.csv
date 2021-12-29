@@ -1,4 +1,4 @@
-ProductID,ProductName,SupplierID 
+ProductID,ProductName,SupplierID,CategoryID
 1,tea,8,1
 2,juice,8,1
 3,coffee,8,1
