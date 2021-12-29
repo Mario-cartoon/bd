@@ -1,29 +1,29 @@
-ProductID,ProductName,SupplierID,CategoryID
-1,tea,8,1
-2,juice,8,1
-3,coffee,8,1
-4,morse,8,1
-5,wine,8,1
-6,chocolate,2,3
-7,marmalade,2,3
-8,candy ,2,3
-9,protein bar,2,3
-10,brie ,1,4
-11,parmesan,1,4
-12,camembert,1,4
-13,mozzarella,1,4
-14,chile,4,2
-15,tartarus,4,2
-16,ketchup,4,2
-17,crackers,5,5
-18,pasta,5,5
-19,cereal,5,5
-20,steaks,3,6
-21,turkey,3,6
-22,chicken,3,6
-23,bananas ,6,7
-24,apples ,6,7
-25,kiwi,6,7
-26,squid ,7,8
-27,shrimp ,7,8
-28,crab,7,8
+ProductID,ProductName,SupplierID,CategoryID,UnitPrice 
+1,tea,8,1,20
+2,juice,8,1,30
+3,coffee,8,1,40
+4,morse,8,1,10
+5,wine,8,1,20
+6,chocolate,2,3,24
+7,marmalade,2,3,37
+8,candy ,2,3,45
+9,protein bar,2,3,59
+10,brie ,1,4,60
+11,parmesan,1,4,80
+12,camembert,1,4,59
+13,mozzarella,1,4,59
+14,chile,4,2,40
+15,tartarus,4,2,50
+16,ketchup,4,2,12
+17,crackers,5,5,123
+18,pasta,5,5,20
+19,cereal,5,5,49
+20,steaks,3,6,90
+21,turkey,3,6,50
+22,chicken,3,60
+23,bananas ,6,7,50
+24,apples ,6,7,100
+25,kiwi,6,7,30
+26,squid ,7,8,304
+27,shrimp ,7,8,40
+28,crab,7,8,40
